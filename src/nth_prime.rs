@@ -1,7 +1,6 @@
 pub fn nth(n: u32) -> u32 {
         n + 1
     }
-}
 
 
 #[test]
